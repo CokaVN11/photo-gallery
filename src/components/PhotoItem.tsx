@@ -1,6 +1,5 @@
 import localforage from 'localforage';
 import { Link } from 'react-router-dom';
-import { useInView } from 'react-intersection-observer';
 import { useEffect, useState } from 'react';
 import React from 'react';
 
